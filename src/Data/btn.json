@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "text": "Primary Button",
+    "className": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded transition duration-300"
+  },
+  {
+    "id": 2,
+    "text": "Secondary Button",
+    "className": "bg-gray-500 hover:bg-gray-600 text-white font-medium py-2 px-4 rounded transition duration-300"
+  },
+  {
+    "id": 3,
+    "text": "Success Button",
+    "className": "bg-green-500 hover:bg-green-600 text-white font-semibold py-2 px-4 rounded shadow-md transition duration-300"
+  },
+  {
+    "id": 4,
+    "text": "Danger Button",
+    "className": "bg-red-500 hover:bg-red-600 text-white font-semibold py-2 px-4 rounded shadow-md transition duration-300"
+  },
+  {
+    "id": 5,
+    "text": "Outline Button",
+    "className": "border-2 border-blue-500 text-blue-500 hover:bg-blue-500 hover:text-white font-medium py-2 px-4 rounded transition duration-300"
+  }
+]

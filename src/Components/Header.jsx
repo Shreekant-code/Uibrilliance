@@ -59,7 +59,7 @@ export const Header = () => {
         </aside>
 
       
-       <main className="flex-1 p-6 md:ml-[250px] ">
+       <main className="flex-1 p-1 md:ml-[250px] ">
 
           
 <Outlet />

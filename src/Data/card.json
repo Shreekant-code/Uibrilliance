@@ -1,0 +1,41 @@
+[
+{
+  "id": 1,
+  "title": "Profile Card",
+  "description": "Frontend developer profile with Download CV button.",
+  "cardClass": "relative group border-4 border-sky-900 rounded-2xl h-52 w-80 bg-sky-700 p-5 flex flex-col items-start gap-4 shadow-lg",
+  "textClass": "text-gray-50 relative z-10",
+  "nameClass": "font-bold text-5xl",
+  "roleClass": "text-xs",
+  "buttonClass": "bg-gray-50 text-sky-800 border px-3 py-2 flex items-center gap-3 rounded-lg font-semibold hover:bg-sky-900 hover:text-gray-50 z-10",
+  "buttonText": "Download CV"
+},
+{
+    "id": 2,
+    "title": "Backend Engineer",
+    "description": "Focused on building APIs and server-side applications with Node.js and databases.",
+    "cardClass": "relative group rounded-xl h-full w-full bg-gradient-to-br from-green-500 to-emerald-600 p-5 flex flex-col justify-between",
+    "textClass": "text-white z-10",
+    "nameClass": "text-2xl font-bold",
+    "roleClass": "text-sm text-gray-200 mt-2",
+    "buttonText": "Explore Projects",
+    "buttonClass": "mt-4 px-4 py-2 bg-white text-green-600 font-semibold rounded-lg shadow-md hover:bg-gray-200 transition"
+  },
+   {
+    "id": 3,
+    "title": "Send Feedback",
+    "description": "Your feedback...",
+    "cardClass": "bg-gray-200 rounded-xl shadow-md w-full h-full p-4 flex flex-col justify-between",
+    "textClass": "text-gray-600 text-sm",
+    "nameClass": "text-center text-lg font-semibold text-gray-500 mb-2",
+    "buttonText": "➤",
+    "buttonClass": "self-end mt-2 w-10 h-10 flex items-center justify-center rounded-lg bg-gray-200 hover:bg-gray-300 transition text-gray-600 font-bold",
+    "textareaContainerClass": "bg-white p-2 rounded-lg shadow-inner mt-3",
+    "inputClass": "w-full h-24 p-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 resize-none",
+    "hasTextarea": true
+  }
+
+
+
+
+]

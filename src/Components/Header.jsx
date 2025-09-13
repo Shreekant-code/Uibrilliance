@@ -5,8 +5,12 @@ import { Buttons } from "../Pages/Button";
 
 const sidebardetail = [
   { id: 1, Name: "Buttons", path: "/buttons" },
-  { id: 2, Name: "Login Page", path: "/login" },
-  { id: 3, Name: "Cards", path: "/cards" },
+  {id:2,Name:"Background",path:"/bg"},
+  {id:3,Name:"Patterns",path:"/patterns"},
+  {id:4,Name:"Texts",path:"/text"},
+  { id: 5, Name: "Login Page", path: "/login" },
+  { id: 6, Name: "Cards", path: "/cards" },
+
 ];
 
 export const Header = () => {
@@ -19,9 +23,9 @@ export const Header = () => {
       <header className="h-[13vh] sticky top-0 bg-black flex items-center justify-center relative 
                    border-b-2 border-cyan-400 shadow-[0_0_15px_#06b6d4] z-100 ">
         <h1 className=" font-bold text-[30px]  md:text-[40px] font-poppins bg-gradient-to-r from-[#ffa052] via-[#e046a4] to-[#6851eb] bg-clip-text text-transparent hover:text-white hover:opacity-70 transition-colors">
-  UIbriliance.dev
+  UIbrilliance.dev
 </h1>
-<span className="absolute bottom-[5px] text-white">Developed by Ajay & Shreekant</span>
+<span className="absolute bottom-[5px] text-white">Developed by Ajay,Nikhil,Shreekant</span>
 
         {/* Hamburger (mobile only) */}
         <div className="absolute left-[10px] top-1/2 -translate-y-1/2 flex items-center gap-2 md:hidden">

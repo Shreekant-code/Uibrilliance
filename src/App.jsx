@@ -17,6 +17,10 @@ function App() {
           <Route path="buttons" element={<Buttons />} />
           <Route path="login" element={<LoginPage />} />
           <Route path="cards" element={<Cards />} />
+           <Route path="bg" element={<h1>Backgorund</h1> } />
+                   <Route path="patterns" element={<h1>PATTERNS</h1> } />
+                   <Route path="text" element={<h1>Text</h1> } />
+
           <Route path="" element={<h1>Welcome to UIbrIllance!</h1>} />
         </Route>
       </Routes>

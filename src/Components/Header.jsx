@@ -16,8 +16,8 @@ export const Header = () => {
   return (
     <>
       {/* Header */}
-      <header className="h-[13vh] sticky top-0 bg-black flex items-center justify-center relative">
-
+      <header className="h-[13vh] sticky top-0 bg-black flex items-center justify-center relative 
+                   border-b-2 border-cyan-400 shadow-[0_0_15px_#06b6d4] z-100 ">
         <h1 className=" font-bold text-[30px]  md:text-[40px] font-poppins bg-gradient-to-r from-[#ffa052] via-[#e046a4] to-[#6851eb] bg-clip-text text-transparent hover:text-white hover:opacity-70 transition-colors">
   UIbriliance.dev
 </h1>

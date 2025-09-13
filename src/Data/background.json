@@ -1,0 +1,290 @@
+[
+  {
+    "id": "bg-01",
+    "name": "Solid Midnight",
+    "class": "bg-[#0f172a]"
+  },
+  {
+    "id": "bg-02",
+    "name": "Sunset Horizon",
+    "class": "bg-[linear-gradient(135deg,#ff7a18_0%,#af002d_50%,#320b86_100%)]"
+  },
+  {
+    "id": "bg-03",
+    "name": "Aurora Sky",
+    "class": "bg-[linear-gradient(120deg,#00c6ff_0%,#0072ff_100%)]"
+  },
+  {
+    "id": "bg-04",
+    "name": "Soft Radial Glow",
+    "class": "bg-[radial-gradient(circle_at_center,#f9d423_0%,#ff4e50_100%)]"
+  },
+  {
+    "id": "bg-05",
+    "name": "Warm Mist",
+    "class": "bg-[radial-gradient(ellipse_at_30%_30%,#ffecd2_0%,#fcb69f_100%)]"
+  },
+  {
+    "id": "bg-06",
+    "name": "Ocean Waves",
+    "class": "bg-[linear-gradient(90deg,#2BC0E4_0%,#EAECC6_100%)]"
+  },
+  {
+    "id": "bg-07",
+    "name": "Pastel Dream",
+    "class": "bg-[linear-gradient(90deg,#a1c4fd_0%,#c2e9fb_100%)]"
+  },
+  {
+    "id": "bg-08",
+    "name": "Narrow Stripes",
+    "class": "bg-[repeating-linear-gradient(45deg,#0ea5e9_0_10px,transparent_10px_20px)]"
+  },
+  {
+    "id": "bg-09",
+    "name": "Deep Space",
+    "class": "bg-[radial-gradient(circle_at_20%_30%,#0f2027_0%,#203a43_50%,#2c5364_100%)]"
+  },
+  {
+    "id": "bg-10",
+    "name": "Lime Punch",
+    "class": "bg-[linear-gradient(90deg,#DCE35B_0%,#45B649_100%)]"
+  },
+
+  {
+    "id": "bw-11",
+    "name": "Pure White",
+    "class": "bg-[#ffffff]"
+  },
+  {
+    "id": "bw-12",
+    "name": "Soft Fog",
+    "class": "bg-[linear-gradient(135deg,#ffffff_0%,#f9fafb_100%)]"
+  },
+  {
+    "id": "bw-13",
+    "name": "Glass White Glow",
+    "class": "bg-[radial-gradient(circle_at_top_left,rgba(255,255,255,0.9)_0%,rgba(255,255,255,0.6)_60%,transparent_100%)]"
+  },
+  {
+    "id": "bw-14",
+    "name": "Charcoal",
+    "class": "bg-[#111827]"
+  },
+  {
+    "id": "bw-15",
+    "name": "Carbon Fade",
+    "class": "bg-[linear-gradient(180deg,#1f2937_0%,#111827_100%)]"
+  },
+  {
+    "id": "bw-16",
+    "name": "Metallic Black",
+    "class": "bg-[linear-gradient(90deg,#000000_0%,#434343_100%)]"
+  },
+  {
+    "id": "bw-17",
+    "name": "Smoky Layers",
+    "class": "bg-[repeating-linear-gradient(45deg,#1f1f1f_0_20px,#2a2a2a_20px_40px)]"
+  },
+  {
+    "id": "bw-18",
+    "name": "Ash Mist",
+    "class": "bg-[radial-gradient(ellipse_at_center,#f5f5f5_0%,#e5e7eb_100%)]"
+  },
+  {
+    "id": "bw-19",
+    "name": "Inverted Glass",
+    "class": "bg-[radial-gradient(circle_at_center,rgba(0,0,0,0.85)_0%,rgba(0,0,0,0.6)_50%,transparent_100%)]"
+  },
+  {
+    "id": "bw-20",
+    "name": "Mono Noise",
+    "class": "bg-[linear-gradient(135deg,#fafafa_0%,#e5e5e5_50%,#d4d4d4_100%)]"
+  },
+
+   {
+    "id": "clr-21",
+    "name": "Tropical Sunrise",
+    "class": "bg-[linear-gradient(135deg,#f6d365_0%,#fda085_100%)]"
+  },
+  {
+    "id": "clr-22",
+    "name": "Neon Disco",
+    "class": "bg-[linear-gradient(135deg,#f7971e_0%,#ffd200_30%,#ff0844_100%)]"
+  },
+  {
+    "id": "clr-23",
+    "name": "Cyberpunk",
+    "class": "bg-[linear-gradient(135deg,#ff00cc_0%,#333399_100%)]"
+  },
+  {
+    "id": "clr-24",
+    "name": "Minty Fresh",
+    "class": "bg-[linear-gradient(90deg,#a8ff78_0%,#78ffd6_100%)]"
+  },
+  {
+    "id": "clr-25",
+    "name": "Lava Burst",
+    "class": "bg-[radial-gradient(circle_at_center,#ff512f_0%,#dd2476_100%)]"
+  },
+  {
+    "id": "clr-26",
+    "name": "Aurora Lights",
+    "class": "bg-[linear-gradient(135deg,#00c6ff_0%,#0072ff_40%,#00ff87_100%)]"
+  },
+  {
+    "id": "clr-27",
+    "name": "Berry Crush",
+    "class": "bg-[linear-gradient(135deg,#a18cd1_0%,#fbc2eb_100%)]"
+  },
+  {
+    "id": "clr-28",
+    "name": "Golden Hour",
+    "class": "bg-[linear-gradient(135deg,#f9d423_0%,#ff4e50_100%)]"
+  },
+  {
+    "id": "clr-29",
+    "name": "Ocean Deep",
+    "class": "bg-[linear-gradient(135deg,#2b5876_0%,#4e4376_100%)]"
+  },
+  {
+    "id": "clr-30",
+    "name": "Electric Candy",
+    "class": "bg-[linear-gradient(135deg,#ff9a9e_0%,#fad0c4_50%,#fad0c4_100%)]"
+  },
+  
+  {
+    "id": "bv-31",
+    "name": "Sky Breeze",
+    "class": "bg-[linear-gradient(135deg,#89f7fe_0%,#66a6ff_100%)]"
+  },
+  {
+    "id": "bv-32",
+    "name": "Deep Ocean",
+    "class": "bg-[linear-gradient(135deg,#2b5876_0%,#4e4376_100%)]"
+  },
+  {
+    "id": "bv-33",
+    "name": "Blue Lagoon",
+    "class": "bg-[linear-gradient(135deg,#43cea2_0%,#185a9d_100%)]"
+  },
+  {
+    "id": "bv-34",
+    "name": "Frozen Violet",
+    "class": "bg-[linear-gradient(135deg,#a18cd1_0%,#fbc2eb_100%)]"
+  },
+  {
+    "id": "bv-35",
+    "name": "Midnight Indigo",
+    "class": "bg-[linear-gradient(135deg,#0f2027_0%,#203a43_50%,#2c5364_100%)]"
+  },
+  {
+    "id": "bv-36",
+    "name": "Galaxy Glow",
+    "class": "bg-[linear-gradient(135deg,#3a1c71_0%,#d76d77_50%,#ffaf7b_100%)]"
+  },
+  {
+    "id": "bv-37",
+    "name": "Royal Violet",
+    "class": "bg-[linear-gradient(135deg,#4e54c8_0%,#8f94fb_100%)]"
+  },
+  {
+    "id": "bv-38",
+    "name": "Ice Storm",
+    "class": "bg-[linear-gradient(135deg,#5f72bd_0%,#9b23ea_100%)]"
+  },
+  {
+    "id": "bv-39",
+    "name": "Neon Blue",
+    "class": "bg-[linear-gradient(135deg,#00f260_0%,#0575e6_100%)]"
+  },
+  {
+    "id": "bv-40",
+    "name": "Purple Haze",
+    "class": "bg-[linear-gradient(135deg,#8e2de2_0%,#4a00e0_100%)]"
+  },
+  {
+    "id": "bv-41",
+    "name": "Arctic Mist",
+    "class": "bg-[linear-gradient(135deg,#e0c3fc_0%,#8ec5fc_100%)]"
+  },
+  {
+    "id": "bv-42",
+    "name": "Blueberry Night",
+    "class": "bg-[linear-gradient(135deg,#141e30_0%,#243b55_100%)]"
+  },
+   {
+    "id": "bw-43",
+    "name": "Ivory",
+    "class": "bg-[#fdfdfb]"
+  },
+  {
+    "id": "bw-44",
+    "name": "Beige Sand",
+    "class": "bg-[linear-gradient(135deg,#f5f5dc_0%,#fdfdf5_100%)]"
+  },
+  {
+    "id": "bw-45",
+    "name": "Cream Mist",
+    "class": "bg-[radial-gradient(circle_at_center,#faf3e0_0%,#f5f5dc_100%)]"
+  },
+  {
+    "id": "bw-46",
+    "name": "Warm Linen",
+    "class": "bg-[linear-gradient(90deg,#e9d8a6_0%,#fefae0_100%)]"
+  },
+  {
+    "id": "bw-47",
+    "name": "Charcoal Black",
+    "class": "bg-[#0a0a0a]"
+  },
+  {
+    "id": "bw-48",
+    "name": "Matte Black Fade",
+    "class": "bg-[linear-gradient(180deg,#1a1a1a_0%,#0a0a0a_100%)]"
+  },
+  {
+    "id": "bw-49",
+    "name": "Beige Glow",
+    "class": "bg-[radial-gradient(ellipse_at_top,#fff7e6_0%,#f2e8cf_100%)]"
+  },
+  {
+    "id": "bw-50",
+    "name": "Paper White",
+    "class": "bg-[linear-gradient(135deg,#ffffff_0%,#f7f7f7_100%)]"
+  },
+  {
+    "id": "bw-51",
+    "name": "Stone Texture",
+    "class": "bg-[linear-gradient(135deg,#d6d3d1_0%,#e7e5e4_100%)]"
+  },
+  {
+    "id": "bw-52",
+    "name": "Carbon Fiber",
+    "class": "bg-[repeating-linear-gradient(45deg,#0f0f0f_0_20px,#1a1a1a_20px_40px)]"
+  },
+  {
+    "id": "bw-53",
+    "name": "Mocha Beige",
+    "class": "bg-[linear-gradient(135deg,#e6ccb2_0%,#ede0d4_100%)]"
+  },
+  {
+    "id": "bw-54",
+    "name": "Smoky Shadow",
+    "class": "bg-[radial-gradient(circle_at_bottom,#000000_0%,#434343_100%)]"
+  },
+  {
+    "id": "bw-55",
+    "name": "Frosted White",
+    "class": "bg-[radial-gradient(circle_at_center,rgba(255,255,255,0.9)_0%,rgba(255,255,255,0.6)_50%,transparent_100%)]"
+  },
+  {
+    "id": "bw-56",
+    "name": "Bronze Beige",
+    "class": "bg-[linear-gradient(135deg,#c9a66b_0%,#e6d5b8_100%)]"
+  },
+  {
+    "id": "bw-57",
+    "name": "Luxury Black Gold",
+    "class": "bg-[linear-gradient(135deg,#000000_0%,#434343_50%,#c9a66b_100%)]"
+  }
+]
